@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Laravel 7 and SwiftUI.
 
-💬 Ask me about Kotlin, Swift,Flutter,Java and PHP etc
+💬 Ask me about Kotlin, Swift,Flutter,Java,PHP etc
 
 
 📫 How to reach me: anthony.tandoh@tanacom.io
