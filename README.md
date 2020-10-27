@@ -3,7 +3,7 @@
 
 🌎 Telecommunication & Software Engineer currently living in Ghana🇬🇭 .
 
-🌱 I’m currently learning Laravel 7 and SwiftUI.
+🌱 I’m currently learning Laravel and SwiftUI.
 
 💬 Ask me about Kotlin, Swift,Flutter,Java,PHP etc
 
