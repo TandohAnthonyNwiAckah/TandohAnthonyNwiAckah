@@ -1,7 +1,7 @@
 ### Hi ,I'm Tandoh 👷 🧑🏽‍💻👋
 
 
-🌎 Telecommunication & Software Engineer currently living in Ghana🇬🇭 .
+🌎 Telecommunication Engineer & Full Stack Developer currently living in Ghana🇬🇭 .
 
 🌱 I’m currently learning Laravel, ASP .NET Core and SwiftUI.
 
