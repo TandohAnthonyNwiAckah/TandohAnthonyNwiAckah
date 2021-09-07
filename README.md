@@ -1,11 +1,11 @@
 ### Hi ,I'm Tandoh 👷 🧑🏽‍💻👋
 
 
-🌎 Telecommunication Engineer & Full Stack Developer currently living in Ghana🇬🇭 .
+🌎 AI Enthusiast & Developer currently living in Ghana🇬🇭 .
 
-🌱 I’m currently learning Laravel, ASP .NET Core and SwiftUI.
+🌱 I’m currently learning ASP.NET Core and SwiftUI.
 
-💬 Ask me about Kotlin, Swift,Flutter,Java,PHP etc
+💬 Ask me about Kotlin, Swift,Flutter,Java,PHP (Laravel, CodeIgniter) etc
 
 
 📫 How to reach me: anthony.tandoh@tanacom.io
