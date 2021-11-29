@@ -1,14 +1,14 @@
 ### Hi ,I'm Tandoh 👷 🧑🏽‍💻👋
 
 
-🌎 AI Enthusiast & Developer currently living in Ghana🇬🇭 .
+🌎 AI Enthusiast & Full Stack Developer currently living in Ghana🇬🇭 .
 
-🌱 I’m currently learning ASP.NET Core and SwiftUI.
+🌱 I’m currently learning ASP.NET Core,SwiftUI,VueJS .
 
-💬 Ask me about Kotlin, Swift,Flutter,Java,PHP (Laravel, CodeIgniter) etc
+💬 Ask me about Java, Kotlin, Swift, Flutter, C#, PHP(Laravel, CodeIgniter, Wordpress), Node JS etc
 
 
-📫 How to reach me: anthony.tandoh@tanacom.io
+📫 How to reach me: <a href = "mailto: anthony.tandoh@tanacom.io">Click to send email</a>
 
 
 
