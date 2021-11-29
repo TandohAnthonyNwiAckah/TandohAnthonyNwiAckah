@@ -3,7 +3,7 @@
 
 🌎 AI Enthusiast & Full Stack Developer currently living in Ghana🇬🇭 .
 
-🌱 I’m currently learning ASP.NET Core,SwiftUI,VueJS .
+🌱 I’m currently learning ASP.NET Core, SwiftUI and VueJS .
 
 💬 Ask me about Java, Kotlin, Swift, Flutter, C#, PHP(Laravel, CodeIgniter, Wordpress), Node JS etc
 
