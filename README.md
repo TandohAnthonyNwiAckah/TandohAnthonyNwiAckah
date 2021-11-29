@@ -8,7 +8,7 @@
 💬 Ask me about Java, Kotlin, Swift, Flutter, C#, PHP(Laravel, CodeIgniter, Wordpress), Node JS etc
 
 
-📫 How to reach me: <a href = "mailto: anthony.tandoh@tanacom.io">Click to send email</a>
+📫 How to reach me: <a href = "mailto: anthony.tandoh@tanacom.io">anthony.tandoh@tanacom.io</a>
 
 
 
