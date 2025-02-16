@@ -46,6 +46,6 @@ Hi ,I'm Tandoh 👷 🧑🏽‍💻👋
 
 
 ### Stats
-
+<p align="left">
 <a href="http://www.github.com/TandohAnthonyNwiAckah"><img src="https://streak-stats.demolab.com?user=TandohAnthonyNwiAckah&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
-
+</p>
