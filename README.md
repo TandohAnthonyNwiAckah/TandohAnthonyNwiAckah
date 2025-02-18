@@ -5,7 +5,7 @@ Hi ,I'm Tandoh 👷 🧑🏽‍💻👋
 
 🌱 I’m currently learning FastAPI, SwiftUI, React, and VueJS.
 
-💬 Ask me about Java, Kotlin, Swift, Flutter, C#(ASP.NET Core), PHP(Laravel, CodeIgniter, WordPress), Node JS, etc
+💬 Ask me about Java, Kotlin, Swift, Dart(Flutter), C#(ASP.NET Core), PHP(Laravel, CodeIgniter, WordPress), Node JS, etc
 
 🤝 I'm open to collaborating on any interesting project.
 
