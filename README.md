@@ -3,9 +3,9 @@ Hi ,I'm Tandoh 👷 🧑🏽‍💻👋
 
 🌎 AI Enthusiast & Full Stack Developer currently living in Ghana🇬🇭.
 
-🌱 I’m currently learning FastAPI, SwiftUI, and VueJS.
+🌱 I’m currently learning SwiftUI, Go, and VueJS.
 
-💬 Ask me about Java, Kotlin, Swift, Dart(Flutter), C#(ASP.NET Core), PHP(Laravel, CodeIgniter, WordPress), JavaScript(Node,React,Express,Next) etc
+💬 Ask me about Java, Kotlin, Swift, Dart(Flutter), C#(ASP.NET Core), PHP(Laravel, CodeIgniter, WordPress), JavaScript(Node,React,Express,Next),Python(FastAPI),MATLAB etc
 
 🤝 I'm open to collaborating on any interesting project.
 
